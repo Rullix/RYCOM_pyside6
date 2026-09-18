@@ -1,0 +1,20 @@
+# 构建产物
+build/
+dist/
+
+# PyInstaller 缓存
+*.spec.bak
+__pycache__/
+*.py[cod]
+
+# Python 环境
+.venv/
+venv/
+env/
+
+# 运行时自动生成的配置（可选保留，按需取消注释）
+# config.ini
+
+# 系统文件
+.DS_Store
+Thumbs.db
